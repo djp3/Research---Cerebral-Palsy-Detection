@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+
+#djp3 - This is automatically generated from the Jupyter notebook, so don't
+# make permanent changes here do it in the notebook with the same name
+
 # In[19]:
 
 
